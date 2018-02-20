@@ -49,4 +49,4 @@ class Int2Az:
     @classmethod
     def convert(cls, num):
         cls._check_num(num)
-        return cls._forstr2str(cls._make_forstr(num))
+        return cls._forstr2str(cls._make_forstr(num)).strip()
