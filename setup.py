@@ -67,5 +67,5 @@ setup(
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().
-    packages=find_packages(exclude=['int2az']),  # Required
+    packages=['int2az'],  # Required
 )
