@@ -63,7 +63,7 @@ setup(
     ],
 
     # This field adds keywords for your project
-    keywords='sample setuptools development',  # Optional
+    keywords='az int2str',  # Optional
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().
